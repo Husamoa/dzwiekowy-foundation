@@ -14,15 +14,15 @@ import Theme from "../components/theme"
 
 const MenuItems = [{
     path: "/",
-    title: "Dom"
+    title: "Strona główna"
   },
   {
     path: "/about",
-    title: "O"
+    title: "O fundacji"
   },
   {
     path: "/blog",
-    title: "Dziennik"
+    title: "Blog"
   },
   {
     path: "/contact",
