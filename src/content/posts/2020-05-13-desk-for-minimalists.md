@@ -1,53 +1,47 @@
 ---
 template: blog-post
-title: Desk for minimalists
-slug: /minimalists-desk
-date: 2020-05-13 12:46
-description: sdasd
-featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
+title: VI Mistrzostwa Polski w Tenisie Stołowym Dźwiękowym
+slug: /vi-mistrzostwa-polski
+date: 2018-11-20 12:46
+description: Dwa dni sportowej rywalizacji Zawodnicy czekają na to wydarzenie
+  cały rok. Trenują, biorą udział w ośrodkowych turniejach i starują w
+  ogólnopolskich zawodach, które w miarę możliwości organizują różne szkoły.
+  Tradycją jest, że jesienią wszyscy spotykają się na dwudniowej imprezie,
+  której organizatorem jest ośrodek szkolno-wychowawczy w Owińskach.
+featuredImage: /assets/dsc_0177.jpg
 ---
-Uh, is the puppy mechanical in any way? Maybe I love you so much I love you no matter who you are pretending to be. If rubbin' frozen dirt in your crotch is wrong, hey I don't wanna be right. I found what I need. And it's not friends, it's things.
+Po raz szósty odbyły się zawody w dyscyplinie, która swą wyjątkowością przyciąga coraz więcej osób. W dniach 19-20.10.2018 r. niewidomi i słabowidzący zawodnicy z całej Polski rywalizowali o medale VI Mistrzostw Polski w Tenisie Stołowym Dźwiękowym. Mistrzowskie tytuły można było zdobyć w trzech kategoriach: indywidualnej, deblowej i drużynowej.[](http://dzwiekowy.pl/static/a40536196790eeb8f5a39778858c7521/9bd87/dsc_0177.jpg)
 
-That's the ONLY thing about being a slave. OK, if everyone's finished being stupid. Bender, we're trying our best. Fry! Stay back! He's too powerful! I just told you! **You've killed me!** *And yet you haven't said what I told you to say!* How can any of us trust you?
+![zdjecie-wygrana](/assets/dsc_0615.jpg)
 
-![Royal Mail](/assets/royal-mail-unsplash.jpg "Royal Mail from Unsplash")
+<!--StartFragment-->
 
-## It doesn't look so shiny to me.
+# Dwa dni sportowej rywalizacji
 
-No! I want to live! There are still too many things I don't own! It doesn't look so shiny to me. I'm just glad my fat, ugly mama isn't alive to see this day. Soon enough. I'm sure those windmills will keep them cool.
+Zawodnicy czekają na to wydarzenie cały rok. Trenują, biorą udział w ośrodkowych turniejach i starują w ogólnopolskich zawodach, które w miarę możliwości organizują różne szkoły. Tradycją jest, że jesienią wszyscy spotykają się na dwudniowej imprezie, której organizatorem jest ośrodek szkolno-wychowawczy w Owińskach. Oczywiście poza sportowymi emocjami i czystą rywalizacją jest to wspaniała okazja do integracji i dobrej zabawy. Tak było i tym razem, z jedną drobną różnicą. Zawody po raz pierwszy odbyły się poza murami szkoły w Owińskach. Ze względu na trwające tam prace remontowe organizatorzy przenieśli imprezę do Poznania. Zawodnicy musieli odnaleźć się w zupełnie nowej przestrzeni, co było dodatkową atrakcją. W uroczystym otwarciu uczestniczyli gospodarze oraz wyjątkowi goście: Maria Tomaszewska – dyrektor ośrodka dla dzieci niewidomych w Owińskach, Tomasz Łubiński – wicestarosta poznański, Józef Plichta – członek prezydium Rady Krajowej Stowarzyszenia „Cross” oraz Ryszard Flisikowski i Jakub Rękoś – właściciele Parku Rekreacyjno-Sportowego fairPlayce.
 
-![]()
+<!--EndFragment-->
 
-1. Guards! Bring me the forms I need to fill out to have her taken away!
-2. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
-3. You, a bobsleder!? That I'd like to see!
+![leszek-przemowienie](/assets/dsc_0036.jpg)
 
-### Daylight and everything.
+<!--StartFragment-->
 
-A true inspiration for the children. Anyone who laughs is a communist! Can I use the gun? Oh, how I wish I could believe or understand that! There's only one reasonable course of action now: kill Flexo!
+# Kto zdobył podium
 
-* Fry! Stay back! He's too powerful!
-* Look, last night was a mistake.
-* Please, Don-Bot… look into your hard drive, and open your mercy file!
+O tytuł mistrzowski walczyli reprezentanci ośmiu ośrodków – Bydgoszczy, Chorzowa, Dąbrowy Górniczej, Gliwic, Krakowa, Łodzi, Owińsk i Wrocławia. Poziom zawodów był naprawdę wysoki, dlatego medalistom należą się szczególne gratulacje. Złoty medal i tytuł mistrza Polski zdobył Patryk Walczak z Łodzi, który w finałowej grze pokonał szkolnego kolegę Adama Uzarczyka. Trzecie miejsce zajął Przemysław Młyński z Wrocławia. Na najwyższym stopniu podium w deblu stanęli zawodnicy z Wrocławia – Przemysław Młyński oraz Oskar Piosik. Srebrny medal wywalczyli reprezentanci Owińsk – Klaudia Bandalewicz i Jarosław Godek. Brąz trafił do Wiktorii Moszczyńskiej i Adama Uzarczyka z Łodzi. W rywalizacji drużynowej nie do pokonania okazali się zawodnicy z Łodzi. W wielkim finale zwyciężyli z drużyną z Owińsk. Miejsce na podium wywalczyli również reprezentanci Dąbrowy Górniczej oraz Wrocławia. W drugim dniu mistrzostw zawodnikom kibicowała oraz udekorowała zwycięzców prezes Stowarzyszenia „Cross” Józefa Spychała.
 
-And I'm his friend Jesus. One hundred dollars. There, now he's trapped in a book I wrote: a crummy world of plot holes and spelling errors! No! The cat shelter's on to me.
+Organizacja tak dużych zawodów byłaby niemożliwa bez pomocy wielu osób, partnerów i podmiotów, którym należą się wielkie podziękowania. Finansowego wsparcia udzielili: Stowarzyszenie „Cross”, Grupa Cedrob S.A., Starostwo Powiatowe w Poznaniu. Organizacyjnie i logistycznie wspierali mistrzostwa: Park Rekreacyjno-Sportowy fairPlayce oraz dwudziestu harcerzy z 15 Poznańskiej Drużyny Harcerskiej „Wataha”.
 
-Fry! Quit doing the right thing, you jerk! I'm sure those windmills will keep them cool. I'm Santa Claus! Leela's gonna kill me. Then we'll go with that data file!
+<!--EndFragment-->
 
-That's right, baby. I ain't your loverboy Flexo, the guy you love so much. You even love anyone pretending to be him! Bite my shiny metal ass. Tell them I hate them. Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments."
+<!--StartFragment-->
 
-That's a popular name today. Little "e", big "B"? Hey, whatcha watching? A sexy mistake. A true inspiration for the children. Shut up and get to the point!
+# Czym i dla kogo jest
 
-Ven ve voke up, ve had zese wodies. Oh, all right, I am. But if anything happens to me, tell them I died robbing some old man. So, how 'bout them Knicks? Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
+Tenis stołowy dźwiękowy powstał na jednych z zajęć prowadzonych przez Leszka Szmaja. Nauczyciel z Owińsk stworzył nową grę z myślą o swoich uczniach, z czasem ją dopracował i rozpropagował. Reguły zostały określone tak, żeby przy stole każdy miał równe szanse. Jest to gra dla każdego. Rywalizować mogą ze sobą niewidomi, słabowidzący, widzący, niepełnosprawni, pełnosprawni. Nikt nie jest tu uprzywilejowany, nikt nie ma łatwiej, nikt nie ma trudniej. Każdy ma założone zaciemnione gogle, które całkowicie wykluczają z gry zmysł wzroku. W wielkim uproszczeniu można powiedzieć, że zawodnicy podają sobie piłeczkę za pomocą dłoni w ten sposób, żeby ta odbiła się minimum dwukrotnie na ich własnym polu i żeby nie została złapana przez przeciwnika. Oczywiście w praktyce jest to dużo bardziej skomplikowane. Uczestnicy stosują różne techniki, tempo podań bywa bardzo zmienne, istnieje kilka wariantów gry. Sędziów wspiera specjalne urządzenie audio-optyczne, które zostało zaprojektowane z myślą o eliminacji pomyłek. Wykorzystuje ono wiązkę lasera umieszczoną nad środkiem stołu i sygnalizuje, czy nastąpiła poprawna liczba odbić w polu.
 
-Shut up and get to the point! Take me to your leader! I can explain. It's very valuable. You guys realize you live in a sewer, right?
+# Wielkie emocje dla każdego
 
-Robot 1-X, save my friends! And Zoidberg! Oh Leela! You're the only person I could turn to; you're the only person who ever loved me. I guess because my parents keep telling me to be more ladylike. As though!
+Sport zawsze wyzwala skrajne emocje. Dlatego nikogo nie dziwiły łzy, które pojawiały się podczas tegorocznych zawodów. Były to łzy szczęścia i łzy porażki. Czasami naprawdę niewiele brakowało do osiągnięcia celu, ale się nie udawało. Najważniejsze, żeby sobie z tym poradzić. Żeby przyjechać w przyszłym roku i stawić czoła kolejnym wyzwaniom. Organizatorzy serdecznie zapraszają ośrodki, które do tej pory jeszcze nie odkryły tej dyscypliny, oraz wszystkich sympatyków i działaczy. Mistrzostwa Polski w tenisie stołowym dźwiękowym to wielkie emocje dla graczy i dla widzów.
 
-I daresay that Fry has discovered the smelliest object in the known universe! Oh right. I forgot about the battle. Oh dear! She's stuck in an infinite loop, and he's an idiot! Well, that's love for you.
-
-You wouldn't. Ask anyway! Is today's hectic lifestyle making you tense and impatient? Ven ve voke up, ve had zese wodies. Doomsday device? Ah, now the ball's in Farnsworth's court!
-
-Fatal. Maybe I love you so much I love you no matter who you are pretending to be. Really?! You can see how I lived before I met you. Alright, let's mafia things up a bit. Joey, burn down the ship. Clamps, burn down the crew.
-
-Enough about your promiscuous mother, Hermes! We have bigger problems. Bender, being God isn't easy. If you do too much, people get dependent on you, and if you do nothing, they lose hope. You have to use a light touch. Like a safecracker, or a pickpocket.
+<!--EndFragment-->
