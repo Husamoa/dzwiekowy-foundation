@@ -2,11 +2,11 @@
   "meta": {
     "title": "Tenis Stołowy Dźwiękowy",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+    "description": "Gra z myślą o osobach niewidomych",
     "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "image": "/assets/og-image.jpg",
+    "iconimage": "/assets/favicon.jpg",
+    "twitterUsername": ""
   },
   "ga": "UA-XXXXXXXXX-X"
 }
