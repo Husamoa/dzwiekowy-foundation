@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Tenis Stołowy Dźwiękowy
 tagline: Z myślą o osobach niewidomych...
-featuredImage: /assets/home-img.jpg
+featuredImage: /assets/leszek-smieszne.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
