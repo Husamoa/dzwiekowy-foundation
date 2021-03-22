@@ -1,8 +1,8 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
+title: Tenis Stołowy Dźwiękowy
+tagline: Z myślą o osobach niewidomych...
 featuredImage: /assets/home-img.jpg
 cta:
   ctaText: Know more
