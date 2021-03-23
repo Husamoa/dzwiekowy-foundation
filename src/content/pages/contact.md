@@ -1,8 +1,13 @@
 ---
 template: contact-page
 slug: /contact
-title: Get in touch
+title: Kontakt
 ---
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
+<!--StartFragment-->
 
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+Prosimy o kontakt telefoniczny, mailowy, bądź przez formularz kontaktowy.
+
+* mail: [tenisstolowydzwiekowy@gmail.com](mailto:tenisstolowydzwiekowy@gmail.com)
+* tel: [668 336 781](tel:+48668336781)
+
+<!--EndFragment-->
