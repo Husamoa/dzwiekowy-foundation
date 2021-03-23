@@ -1,5 +1,5 @@
 # Installation
-- yarn install albo npm install
+- yarn install or npm install
 
 # Running the project 
 - npm start
