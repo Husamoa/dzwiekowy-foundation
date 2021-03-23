@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Tenis Stołowy Dźwiękowy
 tagline: Z myślą o osobach niewidomych...
-featuredImage: /assets/tsd-start-2.jpg
+featuredImage: /assets/tsd-start-page.jpg
 cta:
   ctaText: O nas
   ctaLink: /about
