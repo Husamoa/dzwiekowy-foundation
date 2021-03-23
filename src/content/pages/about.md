@@ -1,50 +1,52 @@
 ---
 template: about-page
 slug: /about
-title: About Foundation
+title: O nas
 ---
-Thank you! Now say "nuclear wessels"! No! Don't jump! A sexy mistake. Anyone who laughs is a communist!
+## Od początku
 
-A true inspiration for the children. And when we woke up, we had these bodies. Moving along… Do a flip! Michelle, I don't regret this, but I bth rue and lament it.
+- - -
 
-![Toys](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Toys")
+Tenis stołowy dźwiękowy to coraz popularniejsza dyscyplina, która ma swoich zwolenników w Polsce oraz za granicą. Jak powstała? Kto i dlaczego ją wymyślił? Oto historia o wielkiej pasji i determinacji.
 
-Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. Well, then good news! It's a suppository. Then we'll go with that data file! **I've been there.** *My folks were always on me to groom myself and wear underpants.* What am I, the pope?
+- - -
 
-Daddy Bender, we're hungry. We can't compete with Mom! Her company is big and evil! Ours is small and neutral! We're rescuing ya. We'll go deliver this crate like professionals, and then we'll go home.
+![poczatki tenisa stolowego dzwiekowego](/assets/home-img.jpg "początki tenisa stołowego dźwiękowego")
 
-I didn't ask for a completely reasonable excuse! I asked you to get busy! I never loved you. OK, this has gotta stop. I'm going to remind Fry of his humanity the way only a woman can. With a warning label this big, you know they gotta be fun!
+## **Tak zaczynaliśmy**
 
-1. And from now on you're all named Bender Jr.
-2. Ah, computer dating. It's like pimping, but you rarely have to use the phrase "upside your head."
-3. You wouldn't. Ask anyway!
+- - -
 
-Bender, quit destroying the universe! No! The cat shelter's on to me. Enough about your promiscuous mother, Hermes! We have bigger problems. Fatal. I guess if you want children beaten, you have to do it yourself.
+Pierwszym krokiem było pozbycie się rakietek. Zamiast nich uczniowie korzystali ze swoich dłoni. Siatka nad stołem też okazała się zbędna. Został więc stół i piłeczka. Pan Leszek musiał improwizować i szybko wymyślić jakiś system gry, który uczniowie zrozumieją, zaakceptują i zapamiętają. Przez całą lekcję wszyscy świetnie się bawili. Nic nie motywuje do pracy tak bardzo jak uśmiech uczniów, więc nauczyciel każdą wolną chwilę poświęcał na opracowywanie i testowanie zasad i wariantów gry. Po paru tygodniach miał już wszystko gotowe. I chyba największym sukcesem była reakcja uczniów i kolegów. Dzieci były zachwycone, że w końcu pojawiło się coś specjalnie dla nich, z myślą o nich. Że uczestniczą w czymś wielkim i ważnym. Dlatego chciały grać i grać. Na lekcjach trzeba było jednak realizować program, więc pojawił się pomysł zajęć dodatkowych. Dyrekcja ośrodka wyraziła zgodę i rozpoczęły się pierwsze spotkania.
 
-I decline the title of Iron Cook and accept the lesser title of Zinc Saucier, which I just made up. Uhh… also, comes with double prize money. You mean while I'm sleeping in it? I don't want to be rescued.
+![puchar polski w lodzi](/assets/06.06.2013-r.-łódź.jpg "puchar polski w łodzi")
 
-* You know the worst thing about being a slave? They make you work, but they don't pay you or let you go.
-* And when we woke up, we had these bodies.
-* Spare me your space age technobabble, Attila the Hun!
+Treningi i ćwiczenia cieszyły się wielkim zainteresowaniem. Uczniowie bardzo aktywnie uczestniczyli we wszystkich zajęciach. Szybko okazało się, że mają ogromną potrzebę rywalizacji sportowej i konfrontacji. Żeby zdobyć nowych rywali dla swoich podopiecznych, pan Leszek zaprosił nauczycieli z innych ośrodków w Polsce na prezentację gry i szkolenie. Już po pierwszym takim spotkaniu tenis stołowy dźwiękowy zyskał nowych fanów. Pan Sławomir Szik z Łodzi podsumował wszystko w liście wysłanym do dyrekcji, którego fragment zacytuję.
 
-Hi, I'm a naughty nurse, and I really need someone to talk to. $9.95 a minute. But, like most politicians, he promised more than he could deliver. I don't know what you did, Fry, but once again, you screwed up! Now all the planets are gonna start cracking wise about our mamas.
+> Zorganizowana przez Szanowną Dyrekcję oraz Pana Leszka konferencja poświęcona była nowej dla nas, nauczycieli wychowania fizycznego z ośrodków dla dzieci niewidomych i słabowidzących, dyscyplinie sportowej dostosowanej do potrzeb naszych dzieci i młodzieży – tenisowi stołowemu dźwiękowemu. Ta nowa gra – autorstwa naszego Kolegi – dokonała prawdziwej rewolucji na płaszczyźnie wychowania fizycznego nie tylko w moim ośrodku w Łodzi, ale również w zaprzyjaźnionych ośrodkach: w Bydgoszczy, Krakowie, Dąbrowie Górniczej. Dlatego też postanowiłem podzielić się z Państwem wrażeniami związanymi ze stawianiem pierwszych kroków przez naszych podopiecznych w tej nowej dyscyplinie. Przepraszam, że dokonuję tej analizy dopiero po kilku miesiącach, ale fascynacja tenisem stołowym dźwiękowym (zarówno młodzieży, jak i samych nauczycieli) jest tak wielka, że brakowało wolnego czasu, aby zasiąść przed komputerem i podzielić się spostrzeżeniami.
 
-You mean while I'm sleeping in it? I suppose I could part with 'one' and still be feared… Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. Negative, bossy meat creature!
+Może trochę w skrócie o samej konferencji. Pełen profesjonalizm, zaangażowanie, wzbudzenie ogromnego zainteresowania nową, niespotykaną dotąd grą (autorstwa Leszka), która pochłonęła nas, nauczycieli, bez reszty. Już wtedy wiedziałem, że młodzież, z którą pracuję, chętnie pozna jej zasady i stanie do sportowej rywalizacji przy stole tenisowym.
 
-Oh God, what have I done? I don't 'need' to drink. I can quit anytime I want! Bender! Ship! Stop bickering or I'm going to come back there and change your opinions manually! Wow! A superpowers drug you can just rub onto your skin? You'd think it would be something you'd have to freebase.
+Na efekty nie trzeba było długo czekać. Natychmiast po powrocie z Owińsk zacząłem wprowadzać nową dyscyplinę w życie. Najpierw wprowadziłem w tajniki moje koleżanki po fachu, no i …. zaczęło się! Koleżanki opanowały już sztukę sędziowania. Wkrótce ogromne zainteresowanie i ustawiczna chęć grania przeniosły się z grających nauczycieli na dzieci i młodzież. Czasami zastanawiamy się... – i po co nam to było. Na zajęciach pozalekcyjnych – SKS – tenis stołowy dźwiękowy wyparł goalballa! Ileż radości i satysfakcji czerpią z gry nasze dzieciaki! A jaka duma rozpiera tych słabszych, ćwiczących z ograniczeniami (tych, których możliwości wykonywania ćwiczeń ruchowych są niewielkie) wówczas, gdy wygrywają z przeciwnikiem starszym wiekowo, sprawniejszym, silniejszym...”.
 
-Ask her how her day was. In our darkest hour, we can stand erect, with proud upthrust bosoms. Why did you bring us here? I don't know what you did, Fry, but once again, you screwed up! Now all the planets are gonna start cracking wise about our mamas.
+Niedługo potem odbyły się w Łodzi pierwsze ogólnopolskie zawody. Po ich zakończeniu oczywiste było, że muszą zostać zorganizowane kolejne. Ośrodek w Owińskach każdego roku zaprasza na mistrzostwa Polski, odbyło się już sześć ich edycji. W międzyczasie zawodnicy startują w zawodach w swoich szkołach i ćwiczą podczas lekcji i zajęć dodatkowych. To doskonała zabawa oraz możliwość integracji i rywalizacji sportowej. Dzięki zaangażowaniu nauczycieli dzieci doświadczają zupełnie nowych dla nich emocji. Przy stole wszyscy są równi, każdy ma takie same szanse.
 
-Good news, everyone! I've taught the toaster to feel love! This opera's as lousy as it is brilliant! Your lyrics lack subtlety. You can't just have your characters announce how they feel. That makes me feel angry!
+![pokaz tenisa stolowego dzwiekowego na AWF Poznan](/assets/18.11.2014-r.-awf.jpg "pokaz tenisa stołowego dźwiękowego na AWF Poznań")
 
-Hello Morbo, how's the family? You won't have time for sleeping, soldier, not with all the bed making you'll be doing. Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
+## **Gra się wszędzie**
 
-My fellow Earthicans, as I have explained in my book 'Earth in the Balance'', and the much more popular ''Harry Potter and the Balance of Earth', we need to defend our planet against pollution. Also dark wizards. Incidentally, you have a dime up your nose.
+- - -
 
-You are the last hope of the universe. You know the worst thing about being a slave? They make you work, but they don't pay you or let you go. I meant 'physically'. Look, perhaps you could let me work for a little food? I could clean the floors or paint a fence, or service you sexually?
+Zasady gry zostały dopracowane, spisane i wydane. Odbywały się kolejne szkolenia dla sędziów, prezentacje gry podczas różnych ważnych wydarzeń w całej Polsce. Goście z zagranicy też zawsze mogli liczyć na pokaz i szczegółowe omówienie zasad. Dzisiaj tenis stołowy dźwiękowy znany jest już w Czechach, Hiszpanii, Rosji, Serbii, na Litwie, Ukrainie, Węgrzech, Słowacji, a nawet w Katarze. Przy każdej okazji mówiono o nowej dyscyplinie.
 
-Hey, guess what you're accessories to. I feel like I was mauled by Jesus. Why would a robot need to drink? What are their names? Fry! Quit doing the right thing, you jerk! Doomsday device? Ah, now the ball's in Farnsworth's court!
+Dzięki takim działaniom grę zobaczył i poznał dr Mirosław Górny z katedry Adaptowanej Aktywności Ruchowej poznańskiej Akademii Wychowania Fizycznego. Od razu docenił jej zalety i dostrzegł wielki potencjał. Zorganizował wyjazdy do kilku miast w Czechach, by jak najwięcej ośrodków mogło poznać grę. Dr Górny z zapałem wspierał pana Leszka i utwierdzał w przekonaniu, że tenis stołowy dźwiękowy to wyjątkowa gra. Rozwijająca i dostępna, warta studiowania i poznawania. Od czterech lat studenci AWF w Poznaniu mogą uczyć się metodyki gry w ramach swoich zajęć. Powstał osobny przedmiot obejmujący teorię i praktykę.
 
-I saw you with those two "ladies of the evening" at Elzars. Explain that. Shinier than yours, meatbag. That's the ONLY thing about being a slave. Um, is this the boring, peaceful kind of taking to the streets?
+## **To nie koniec**
 
-Just once I'd like to eat dinner with a celebrity who isn't bound and gagged. Daddy Bender, we're hungry. Kids don't turn rotten just from watching TV. I just want to talk. It has nothing to do with mating. Fry, that doesn't make sense.
+- - -
+
+Nic w życiu nie jest niemożliwe. Ta historia jest tego przykładem. Wystarczy impuls, motywacja i zaangażowanie. Pomysł, który zrodził się z ciekawości i chęci odkrywania, przyniósł naprawdę wspaniały efekt. Nauczyciele, którzy uczestniczyli w pierwszych szkoleniach, od lat mocno wspierają pana Leszka. Bez nich pewnie by się nie udało. To oni rozwijają dyscyplinę w swoich szkołach i dopingują dzieci do treningów. Wszyscy zgadzają się, że gra wpływa bardzo pozytywnie na rozwój podopiecznych i wiedzą, że to właśnie jest najważniejsze. Tego szukali i tego potrzebowali. Tenis stołowy dźwiękowy doskonale jednoczy społeczność pracującą z dziećmi niewidomymi i same dzieci.
+
+Jeśli robi się coś z pasją, to musi się udać. Oczywiście ważne jest, żeby słuchać podpowiedzi i sugestii innych, dlatego spotkania trenerów i zawodników są bezcenne. Każde przynosi nowe spojrzenie. Pan Leszek z optymizmem patrzy w przyszłość i z wielkim uśmiechem wspomina przeszłość.
+
+<!--EndFragment-->
