@@ -9,7 +9,7 @@ import Navigation from "./navigation";
 
 import "../assets/scss/style.scss"
 import Footer from "./footer";
-import Theme from "../components/theme"
+// import Theme from "../components/theme"
 
 
 const query = graphql`
@@ -47,8 +47,8 @@ const Layout = ({children, className, props}) => {
 
 export default Layout
 
-const layoutStyle = {
-  theme: {
-    display:["none", "none", "none", "block"],
-  }
-}
+// const layoutStyle = {
+//   theme: {
+//     display:["none", "none", "none", "block"],
+//   }
+// }
