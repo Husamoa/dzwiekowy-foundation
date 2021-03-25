@@ -38,7 +38,7 @@ const Pagination = (props) => (
                     color: 'muted'
                   }}
                 >
-                  <span className="icon -left"><RiArrowLeftLine/></span> Previous</p>
+                  <span className="icon -left"><RiArrowLeftLine/></span> Poprzedni post</p>
                 <span className="page-title">{props.previous.frontmatter.title}</span>
               </Link>
           </li>
@@ -50,7 +50,7 @@ const Pagination = (props) => (
                 sx={{
                   color: 'muted'
                 }}
-              >Next <span className="icon -right"><RiArrowRightLine/></span></p>
+              >Następny post <span className="icon -right"><RiArrowRightLine/></span></p>
               <span className="page-title">{props.next.frontmatter.title}</span>
             </Link>
           </li>

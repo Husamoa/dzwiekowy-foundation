@@ -61,7 +61,7 @@ const Pagination = (props) => (
       {!props.isFirst && (
         <li>
           <Link to={props.prevPage} rel="prev">
-          <span className="icon -left"><RiArrowLeftLine/></span> Previous
+          <span className="icon -left"><RiArrowLeftLine/></span> Poprzedni post
           </Link>
         </li>
       )}
@@ -78,7 +78,7 @@ const Pagination = (props) => (
       {!props.isLast && (
         <li>
           <Link to={props.nextPage} rel="next">
-            Next <span className="icon -right"><RiArrowRightLine/></span>
+            Następny post <span className="icon -right"><RiArrowRightLine/></span>
           </Link>
         </li>
       )}
