@@ -40,22 +40,22 @@ const Contact = ({data}) => {
         <form className="contact-form" action="/thanks" name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
           <input type="hidden" name="form-name" value="contact" />
           <p>
-            <label>Name<input type="text" name="name" required /></label>   
+            <label>Imię i nazwisko<input type="text" name="name" required /></label>   
           </p>
           <p>
-            <label>Email<input type="email" name="email" required /></label>
+            <label>Adres e-mail<input type="email" name="email" required /></label>
           </p>
           <p>
-            <label>Subject<input type="text" name="subject" required /></label>   
+            <label>Temat<input type="text" name="subject" required /></label>   
           </p>
           <p>
-            <label>Message<textarea name="message" required ></textarea></label>
+            <label>Treść wiadomości<textarea name="message" required ></textarea></label>
           </p>
           <p className="text-align-right">
             <button className="button"            
             sx={{
               variant: 'links.button'
-            }} type="submit">Send Message <span className="icon -right"><RiSendPlane2Line/></span></button>
+            }} type="submit">Wyślij <span className="icon -right"><RiSendPlane2Line/></span></button>
           </p>
         </form>
       </div>
