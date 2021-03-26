@@ -12,11 +12,19 @@ const MenuItems = [
   },
   {
     path: "/about",
-    title: "O fundacji"
+    title: "O nas"
   },
   {
     path: "/blog",
-    title: "Blog"
+    title: "Aktualności"
+  },
+  {
+    path: "/video",
+    title: "Video"
+  },
+  {
+    path: "/media",
+    title: "Dla mediów"
   },
   {
     path: "/contact",
