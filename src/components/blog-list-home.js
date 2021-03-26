@@ -38,7 +38,7 @@ export default function BlogListHome() {
                 id
                 excerpt(pruneLength: 250)
                 frontmatter {
-                  date(formatString: "MMMM DD, YYYY", locale: "pl")
+                  date(formatString: "DD MMMM, YYYY", locale: "pl")
                   slug
                   title
                   featuredImage {

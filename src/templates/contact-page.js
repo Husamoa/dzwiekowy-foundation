@@ -49,7 +49,7 @@ const Contact = ({data}) => {
             <label>Temat<input type="text" name="subject" required /></label>   
           </p>
           <p>
-            <label>Treść wiadomości<textarea name="message" required ></textarea></label>
+            <label>Treść wiadomości<textarea name="message" required /></label>
           </p>
           <p className="text-align-right">
             <button className="button"            

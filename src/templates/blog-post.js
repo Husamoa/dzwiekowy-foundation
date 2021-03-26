@@ -118,7 +118,7 @@ export const pageQuery = graphql`
       html
       excerpt(pruneLength: 148)
       frontmatter {
-        date(formatString: "MMMM DD, YYYY")
+        date(formatString: "DD MMMM, YYYY", locale: "pl")
         slug
         title
         description
