@@ -8,7 +8,8 @@
 // 	min-height: 100vh;
 // }
 .primary-container main {
-	min-height: calc(100vh - 60px - 81px);
+	//min-height: calc(100vh - 60px - 81px);
+	min-height: calc(100vh - 60px);
 	padding-top: 5.2rem;
 }
 .site-header {
