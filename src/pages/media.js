@@ -23,7 +23,8 @@ const MediaPage = () => {
                 </li>
             </ul>
             <h4>Zapraszam do obejrzenia spotu promującego Tenis Stołowy Dźwiękowy i polubienia nas na &nbsp;
-                    <a sx={indexStyles.socialIcons} style={{fontSize: "32px"}} href={'https://www.facebook.com/dzwiekowy'} target="_blank"><RiFacebookBoxFill/></a>
+                    <a sx={indexStyles.socialIcons} style={{fontSize: "32px"}} href={'https://www.facebook.com/dzwiekowy'} target="_blank" rel='noreferrer'>{
+                        <RiFacebookBoxFill/>}</a>
             </h4>
             <div className="responsive-container">
                 <iframe className="responsive-iframe" title="Spot Tenisa Stołowego Dźwiękowego"
