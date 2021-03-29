@@ -1,7 +1,7 @@
 export const onServiceWorkerUpdateReady = () => {
   const answer = window.confirm(
-    `This application has been updated. ` +
-      `Reload to display the latest version?`
+    `Istnieje nowsza wersja strony Tenis Stołowy Dźwiękowy ` +
+      `Czy chesz odświeżyć stronę, żeby zobaczyć najnowszą wersję?`
   )
 
   if (answer === true) {
