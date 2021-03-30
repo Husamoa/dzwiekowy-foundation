@@ -72,9 +72,9 @@ const HomePage = ({ data }) => {
           <h1 sx={{color: 'primary'}} className="title">{frontmatter.title}</h1>
           <p 
             className="tagline"
-            // sx={{
-            //   color: 'muted'
-            // }}
+            sx={{
+              color: 'muted'
+            }}
           >
             {frontmatter.tagline}
           </p>

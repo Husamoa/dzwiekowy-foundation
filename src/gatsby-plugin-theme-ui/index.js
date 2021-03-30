@@ -4,7 +4,7 @@ export default {
     background: '#fff',
     primary: '#334249',
     accent: '#fff',
-    muted: '#c1c1c1',
+    muted: '#546d78',
     cardBg: '#fff',
     borderColor:"#334249ff",
     labelText: "#334249ff",

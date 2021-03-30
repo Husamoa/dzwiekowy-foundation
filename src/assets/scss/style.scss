@@ -169,6 +169,10 @@
 	@media (max-width: $breakpoint-md) {
 		margin-top: 40px;
 	}
+div a {
+	transition: .3s linear;
+}
+
 }
 .home-posts {
 	.grids {
@@ -298,7 +302,7 @@ article img {
 	border: none;
 	font-size: 16px;
 	line-height: 1;
-	transition: background .3s linear;
+	transition: .3s linear;
 	&:hover {
 		background-color: var(--button-color);
 		color: #fff;
