@@ -31,9 +31,6 @@
 }
 
 .site-header {
-	.sticky {
-		padding: 10px 20px; // this will work with animation on scroll
-	}
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -42,6 +39,13 @@
 	z-index: 1000; // fix with the .featured-image
   padding: 30px 50px;
 	transition: .6s;
+	font-size: 1.25rem;
+}
+
+.site-header-scrolled {
+  padding: 50px 50px;
+	background-color: #546d78;
+	font-size: 1rem;
 }
 
 .site-navigation {
