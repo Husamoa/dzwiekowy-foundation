@@ -1,7 +1,7 @@
 /** @jsx jsx */
 import { jsx } from "theme-ui"
 import { useStaticQuery, graphql } from "gatsby"
-
+import { useEffect, useState } from 'react'
 
 import Header from "./header"
 import Logo from "./logo"
@@ -24,13 +24,30 @@ query LayoutQuery {
 
 const Layout = ({children, className, props}) => {
 
+    const [classListState, setClassListState] = useState("");
+
+    useEffect(() => {
+        const handleScroll = () => {
+            const scrolled = window.scrollY;
+            if (scrolled > 0) {
+                setClassListState(' site-header-scrolled')
+            } else if (scrolled === 0) {
+                setClassListState("")
+            }
+        };
+
+        window.addEventListener("scroll", handleScroll, { passive: true });
+
+        return () => window.removeEventListener("scroll", handleScroll);
+    }, [classListState]);
+
   const { site } = useStaticQuery(query)
   const { siteTitle } = site.siteMetadata
 
 
   return (
     <div className="primary-container">
-      <Header>
+      <Header className={classListState}>
         <Logo title={siteTitle} />
         <Navigation/>
         {/* <div sx={layoutStyle.theme}>

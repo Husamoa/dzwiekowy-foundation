@@ -1,9 +1,9 @@
 /** @jsx jsx */
 import { jsx } from 'theme-ui'
 
-const Header = ({children}) => (
+const Header = ({children, className}) => (
   <header 
-    className="site-header"
+    className={"site-header" + className}
     sx={{
       bg: 'primary'
     }}
