@@ -32,7 +32,7 @@ const MenuItems = [
   },
 ]
 
-const ListLink = (props) => (<li><Link to={props.to}>{props.children}</Link></li>)
+const ListLink = (props) => (<li><Link onMouseDown={props.onMouseDown} to={props.to}>{props.children}</Link></li>)
 
 
 class Navigation extends React.Component {
@@ -48,13 +48,23 @@ class Navigation extends React.Component {
     }))
   }
 
+  closeMenu = () => {
+    this.setState({
+      showMenu: false
+    })
+  }
+
+  handleMouseDown = (e) => {
+    e.preventDefault()
+  }
+
   render () {
     const listMenuItems = MenuItems.map((menuItem, index) =>
-      <ListLink key={index} to={menuItem.path}>{menuItem.title}</ListLink>
+      <ListLink onMouseDown={this.handleMouseDown} key={index} to={menuItem.path}>{menuItem.title}</ListLink>
     )
     return (
       <nav className="site-navigation" sx={navStyle.menu}>
-        <button onClick={this.handleToggleClick} className={"menu-trigger" + (this.state.showMenu ? " is-active" : "")}>
+        <button onBlur={this.closeMenu} onMouseDown={this.handleToggleClick} className={"menu-trigger" + (this.state.showMenu ? " is-active" : "")}>
           <div className="icon-menu-line"><RiMenu3Line/></div>
           <div className="icon-menu-close"><RiCloseLine/></div>
         </button>
