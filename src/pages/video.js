@@ -3,7 +3,7 @@ import Layout from '../components/layout'
 import SEO from "../components/seo";
 
 const VideoPage = () => (
-    <Layout className={'VideoPage'}>
+    <Layout className={'page video-page'}>
         <SEO
             title={'Video'}
             description={'Video o Tenisie Stołowym Dźwiękowym'}
@@ -14,10 +14,7 @@ const VideoPage = () => (
             <div>
                 <h3>Spot TSD</h3>
                 <div className={'responsive-container'}>
-                    <iframe className={'responsive-iframe'} style={{
-                        width: '560px',
-                        height: '315px'
-                    }} title="Spot Tenisa Stołowego Dźwiękowego" src="https://www.youtube.com/embed/znShAVTNPPo"
+                    <iframe className={'responsive-iframe'} width={560} height={349} title="Spot Tenisa Stołowego Dźwiękowego" src="https://www.youtube.com/embed/znShAVTNPPo"
                             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                             allowFullScreen={true}/>
                 </div>
@@ -25,10 +22,7 @@ const VideoPage = () => (
             <div>
                 <h3>Instruktaż TSD</h3>
                 <div className={'responsive-container'}>
-                    <iframe className={'responsive-iframe'} style={{
-                        width: '560px',
-                        height: '315px'
-                    }} src="https://www.youtube.com/embed/n1Cue3_GE1k"
+                    <iframe className={'responsive-iframe'} width={560} height={349} src="https://www.youtube.com/embed/n1Cue3_GE1k"
                             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                             allowFullScreen={true}
                             title="Instruktaż Tenisa Stołowego Dźwiękowego"/>

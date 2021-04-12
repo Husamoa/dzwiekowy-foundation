@@ -5,7 +5,7 @@ import {RiFacebookBoxFill} from "react-icons/ri";
 
 const MediaPage = () => {
     return (
-        <Layout>
+        <Layout className={'page media-page'}>
             <h1>Kontakt</h1>
             <p>
                 Prosimy o kontakt telefoniczny lub przez formularz kontaktowy.
@@ -23,13 +23,17 @@ const MediaPage = () => {
                 </li>
             </ul>
             <h4>Zapraszam do obejrzenia spotu promującego Tenis Stołowy Dźwiękowy i polubienia nas na &nbsp;
-                    <a sx={indexStyles.socialIcons} style={{fontSize: "32px"}} href={'https://www.facebook.com/dzwiekowy'} target="_blank" rel='noreferrer'>{
-                        <RiFacebookBoxFill/>}</a>
+                <a sx={indexStyles.socialIcons} style={{fontSize: "32px"}} href={'https://www.facebook.com/dzwiekowy'}
+                   target="_blank" rel='noreferrer'>{
+                    <RiFacebookBoxFill/>}</a>
             </h4>
-            <div className="responsive-container">
-                <iframe className="responsive-iframe" title="Spot Tenisa Stołowego Dźwiękowego"
-                        src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fdzwiekowy%2Fvideos%2F363264254438433%2F&show_text=0&width=560"
-                        allowFullScreen={true}/>
+            <div className="grids col-1 sm-1 lg-2">
+                <div className="responsive-container">
+                    <iframe className="responsive-iframe" width={560} height={349}
+                            title="Spot Tenisa Stołowego Dźwiękowego"
+                            src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fdzwiekowy%2Fvideos%2F363264254438433%2F&show_text=0&width=560"
+                            allowFullScreen={true}/>
+                </div>
             </div>
         </Layout>
     )
@@ -39,10 +43,10 @@ export default MediaPage
 
 const indexStyles = {
     socialIcons: {
-        "a":{
+        "a": {
             color: "socialIcons",
-            ":hover":{
-                color:"socialIconsHover",
+            ":hover": {
+                color: "socialIconsHover",
             }
         }
     }
