@@ -1,7 +1,8 @@
 /** @jsx jsx */
 import { jsx } from 'theme-ui'
+import * as React from "react";
 
-const Header = ({children}) => (
+const Header: React.FC<React.PropsWithChildren<any>> = ({children}) => (
   <header 
     className={"site-header"}
     sx={{

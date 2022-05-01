@@ -9,6 +9,7 @@ import Navigation from "./navigation";
 
 import "../assets/scss/style.scss"
 import Footer from "./footer";
+import * as React from "react";
 // import Theme from "../components/theme"
 
 
@@ -22,7 +23,7 @@ query LayoutQuery {
 }
 `
 
-const Layout = ({children, className, props}) => {
+const Layout = ({children, className}):React.PropsWithChildren<any> => {
 
 
   const { site } = useStaticQuery(query)
