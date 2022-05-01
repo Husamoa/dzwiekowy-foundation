@@ -24,22 +24,6 @@ query LayoutQuery {
 
 const Layout = ({children, className, props}) => {
 
-    const [classListState, setClassListState] = useState("");
-
-    useEffect(() => {
-        const handleScroll = () => {
-            const scrolled = window.scrollY;
-            if (scrolled > 0) {
-                setClassListState(' site-header-scrolled')
-            } else if (scrolled === 0) {
-                setClassListState("")
-            }
-        };
-
-        window.addEventListener("scroll", handleScroll, { passive: true });
-
-        return () => window.removeEventListener("scroll", handleScroll);
-    }, [classListState]);
 
   const { site } = useStaticQuery(query)
   const { siteTitle } = site.siteMetadata
@@ -47,7 +31,7 @@ const Layout = ({children, className, props}) => {
 
   return (
     <div className="primary-container">
-      <Header className={classListState}>
+      <Header>
         <Logo title={siteTitle} />
         <Navigation/>
         {/* <div sx={layoutStyle.theme}>
