@@ -6,10 +6,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/stackrole/gatsby-starter-foundation.git"
+    "url": "https://github.com/Husamoa/dzwiekowy-foundation.git"
   },
   "bugs": {
-    "url": "https://github.com/stackrole/gatsby-starter-foundation/issues"
+    "url": "https://github.com/Husamoa/dzwiekowy-foundation/issues"
   },
   "scripts": {
     "build": "GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true gatsby build --log-pages",
