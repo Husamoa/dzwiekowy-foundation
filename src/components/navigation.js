@@ -27,6 +27,10 @@ const MenuItems = [
     title: "Dla mediów"
   },
   {
+    path: "/foundation",
+    title: "Fundacja"
+  },
+  {
     path: "/contact",
     title: "Kontakt"
   },
