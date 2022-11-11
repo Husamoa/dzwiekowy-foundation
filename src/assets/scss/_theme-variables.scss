@@ -17,11 +17,11 @@ $breakpoint-xl: 1200px;
 	--font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, Ubuntu, roboto, noto, segoe ui, arial, sans-serif;
 	--font-family-mono: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
   --font-size-small: 12px;
-  
+
   --primary-color: #334249ff;
   --header-bg: #334249ff;
 
-  --home-link-color: #c1c1c1ff;
+  --home-link-color: #FFB98D;
   --home-link-hover-color:  var(--primary-color);
 
   --button-color: #334249;
@@ -35,8 +35,8 @@ $breakpoint-xl: 1200px;
 
   --label-text: #777;
   --input-focus-border: #83AAAC;
-  
+
   // CSS Grid Utility
-  --grid-gap: 30px; 
+  --grid-gap: 30px;
 
 }

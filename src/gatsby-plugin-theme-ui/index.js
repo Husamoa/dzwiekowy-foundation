@@ -1,8 +1,8 @@
 export default {
   colors: {
     text: '#000',
-    background: '#fff',
-    primary: '#334249',
+    background: '#F5F8FA',
+    primary: '#A7C5C2',
     accent: '#fff',
     muted: '#546d78',
     cardBg: '#fff',
@@ -38,7 +38,7 @@ export default {
       }
     },
     button: {
-      bg: 'buttonAccent',
+      bg: 'primary',
       color: 'accent'
     }
   }
